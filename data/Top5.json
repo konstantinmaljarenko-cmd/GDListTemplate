@@ -1,0 +1,18 @@
+{
+    "id": 6508283,
+    "name": "ReTraY",
+    "author": "DiMaViKuLov26",
+    "creators": ["DiMaViKuLov26"],
+    "verifier": "Acular",
+    "verification": "https://www.youtube.com/watch?v=nZ2oPbEXPns",
+    "percentToQualify": 69,
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "narwhal",
+            "link": "https://www.youtube.com/watch?v=yGiG9M7mK2M",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
