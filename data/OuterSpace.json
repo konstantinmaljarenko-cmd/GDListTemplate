@@ -1,0 +1,24 @@
+{
+    "id": 57436521,
+    "name": "OuterSpace",
+    "author": "Nicki1202",
+    "creators": ["Nicki1202"],
+    "verifier": "kara",
+    "verification": "https://www.youtube.com/watch?v=eAmsXpb5YzA",
+    "percentToQualify": "80",
+    "password": "1202",
+    "records": [
+        {
+            "user": "Acular",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Blooob",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 89,
+            "hz": 120
+        }
+    ]
+}
