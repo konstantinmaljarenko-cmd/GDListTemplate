@@ -1,0 +1,19 @@
+{
+    "id": 4454123,
+    "name": "SONAR",
+    "author": "JerkRat",
+    "creators": ["JerkRat"],
+    "verifier": "milfecto",
+    "verification": "https://www.youtube.com/watch?v=eAmsXpb5YzA",
+    "percentToQualify": "80",
+    "password": "No Copy",
+    "records": [
+        {
+            "user": "Acular",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 240
+        }
+        }
+    ]
+}
